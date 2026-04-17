@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c8605c2b-84d3-4a9f-9e00-9d8aa387941d",
+  "id_short": 277491,
+  "published_at": "2026-04-17T19:14:33Z",
+  "repo_name": "all-restaurants-in-greater-san-francisco-bay-area-metro-california-us-sample-277491",
+  "sample_asset_name": "beamstation_277491_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/277491/beamstation_277491_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "c9acbdefd25ad4f9a549c142c270d52198c8b515058f6db7519ffa10f2021f2a",
+  "sample_size_bytes": 3404834,
+  "total_records": 11143
+}
